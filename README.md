@@ -1,6 +1,7 @@
 # Graph
 TO CREATE A GRAPH IN JAVA, INHERIT THE GRAPH.Java file in your class.
-#### public class ur_class_name extends Graph{
+#### 
+public class ur_class_name extends Graph{
     public static void main(String[] args){
        ur_class_name obj = new ur_class_name();
        }
@@ -9,7 +10,7 @@ TO CREATE A GRAPH IN JAVA, INHERIT THE GRAPH.Java file in your class.
 
 ## METHODS---call it on your class object ##
 ### 1. FOR ADDING VERTEX ###
-' obj.addVertex(); ' //will add an vertex starting from 0
+ obj.addVertex(); //will add an vertex starting from 0
 
 ### 2. FOR ADDING EDGE ###
 ' obj.addEdge(int v, int w ); ' //will add an edge between v and w 
