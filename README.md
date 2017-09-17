@@ -1,7 +1,6 @@
 # Graph
 TO CREATE A GRAPH IN JAVA, INHERIT THE GRAPH.Java file in your class.
-#### 
-public class ur_class_name extends Graph{
+#### public class ur_class_name extends Graph{
     public static void main(String[] args){
        ur_class_name obj = new ur_class_name();
        }
